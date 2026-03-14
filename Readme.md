@@ -12,5 +12,3 @@ Steps:
 - Model training
 - Prediction
 - Evaluation
-
-Accuracy: (paste your score)
